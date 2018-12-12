@@ -1,4 +1,4 @@
 # projectTest
-Test of the GitHub repository
+Test of the 
 
 Here I will add some more text
